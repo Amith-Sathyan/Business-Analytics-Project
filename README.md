@@ -1,7 +1,7 @@
 # Business-Analytics-Project
 Predicting new product success using customer review analytics and sentiment modelling dataset
 
-#Dissertation Code Repository
+## Dissertation Code Repository
 This repository contains the code and analysis used to produce the results presented in the Dissertation
 
 ## Contents
