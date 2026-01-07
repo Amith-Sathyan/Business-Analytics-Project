@@ -5,8 +5,8 @@ Predicting new product success using customer review analytics and sentiment mod
 This repository contains the code and analysis used to produce the results presented in the Dissertation
 
 ## Contents
--'BAproject.ipynb' -- Jupyter notebook containing data preprocessing, analysis, and result generation
--'README.md' -- instructions and dataset information.
+-- 'BAproject.ipynb' - Jupyter notebook containing data preprocessing, analysis, and result generation
+-- 'README.md' - instructions and dataset information.
 
 ## Dataset
 The dataset used in this study is derived from the *Amazon Reviews 2023* dataset, published and hosted on AWS.
